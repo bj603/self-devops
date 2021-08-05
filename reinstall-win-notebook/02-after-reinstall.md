@@ -60,14 +60,11 @@ git config --global core.autocrlf false
 
 3) There is the setting "Enabling Windows Update Power Management to automatically wake up the system to install scheduled updates". Turn it off.
 ```
-
    * Disable touchscreen in Windows 10
 ```
 1) In the search box on the taskbar, type Device Manager, then select Device Manager.
 2) Select the arrow next to Human Interface Devices and select HID-compliant touch screen.
 3) Select the Action tab at the top of the window. Select disable or enable.
 ```
-
-
    * Windows 10 Microsoft Compatibility Telemetry High Disk Usage --- disable telemetry 
 https://www.drivereasy.com/knowledge/windows-10-microsoft-compatibility-telemetry-high-disk-usage-solved/
