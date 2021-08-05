@@ -2,10 +2,12 @@
 
 ### IDEA - Configurations
 
-* File / Export settings 
-* On the long run location of setting files should moved to a synced directory, see: 
-  * https://intellij-support.jetbrains.com/hc/en-us/articles/206544519-Directories-used-by-the-IDE-to-store-settings-caches-plugins-and-logs
-  * https://intellij-support.jetbrains.com/hc/en-us/articles/207240985
+* Share settings through a settings repository?: https://www.jetbrains.com/help/idea/2020.2/sharing-your-ide-settings.html#settings-repository
+* Other (legacy) methods:
+  * File / Export settings 
+  * On the long run location of setting files should moved to a synced directory, see: 
+    * https://intellij-support.jetbrains.com/hc/en-us/articles/206544519-Directories-used-by-the-IDE-to-store-settings-caches-plugins-and-logs
+    * https://intellij-support.jetbrains.com/hc/en-us/articles/207240985
 
 ### VSCode
  * TODO
@@ -29,7 +31,10 @@
 ### Environment variables & Path
 
 ### OpenVPN
- * ~\OpenVPN\config\
+ * Not sure which one...
+   * ~\OpenVPN\config\
+   * appData/OpenVPN
+   * c:\Program Files (x86)\OpenVPN Technologies\OpenVPN Client\etc\profile\
 
 ### Stunnel
  * c:\Program Files (x86)\stunnel\config\
